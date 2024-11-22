@@ -1,8 +1,9 @@
+A guy who is rabidly curious on everything in life. Dream to become a software developer.
+
 - 👋 Hi, I’m @longtqb04
-- 🌱 I’m currently learning Computer Science at Ho Chi Minh City University of Technology
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m a junior in Computer Science at Ho Chi Minh City University of Technology, VNU-HCM
 - 📫 How to reach me:
-- tranquocbaolong2004@gmail.com / long.tran041102@hcmut.edu.vn / 0904051758
+- tranquocbaolong2004@gmail.com / long.tran041102@hcmut.edu.vn / +84904051758
 - 😄 Pronouns: he/him
 
 <!---
