@@ -3,7 +3,7 @@ I am a junior in Computer Science with a strong interest in software development
 - 👋 Hi, I’m @longtqb04
 - 🌱 I’m studying Computer Science at Ho Chi Minh City University of Technology, VNU-HCM
 - 📫 How to reach me:
-- tranquocbaolong2004@gmail.com / long.tran041102@hcmut.edu.vn / +84904051758
+- tranquocbaolong2004@gmail.com / long.tran041102@hcmut.edu.vn
 - 😄 Pronouns: he/him
 
 <!---
