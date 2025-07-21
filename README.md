@@ -1,4 +1,4 @@
-I am a junior in Computer Science with a strong interest in software development and digital transformation. Experienced in creating user-friendly applications with seamless user experiences. Eager to learn and adapt to emerging technologies.
+I am a final-year student in Computer Science with a strong interest in software development and digital transformation. Experienced in creating user-friendly applications with seamless user experiences. Eager to learn and adapt to emerging technologies.
 
 - 👋 Hi, I’m @longtqb04
 - 🌱 I’m studying Computer Science at Ho Chi Minh City University of Technology, VNU-HCM
