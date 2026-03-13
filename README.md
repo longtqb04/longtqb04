@@ -1,4 +1,4 @@
-I am a final-year Computer Science student with a strong interest in artificial intelligence and software development. I’m now focusing on exploring AI-driven applications such as machine learning and intelligent systems. I’m eager to learn, build, and adapt to emerging technologies.
+I am a final-year Computer Science student with a strong interest in applications of artificial intelligence. I’m now focusing on exploring AI-driven applications such as machine learning and intelligent systems. I’m eager to learn, build, and adapt to emerging technologies.
 
 - 👋 Hi, I’m @longtqb04
 - 🌱 I’m studying Computer Science at Ho Chi Minh City University of Technology, VNU-HCM
