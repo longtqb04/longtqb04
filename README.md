@@ -1,9 +1,8 @@
-I am a final-year Computer Science student with a strong interest in applications of artificial intelligence. I’m now focusing on exploring AI-driven applications such as machine learning and intelligent systems. I’m eager to learn, build, and adapt to emerging technologies.
+I am a Computer Science graduate with a strong interest in applications of artificial intelligence. I’m now focusing on exploring AI-driven applications such as machine learning and intelligent systems. I’m eager to learn, build, and adapt to emerging technologies.
 
 - 👋 Hi, I’m @longtqb04
-- 🌱 I’m studying Computer Science at Ho Chi Minh City University of Technology, VNU-HCM
-- 📫 How to reach me:
-- tranquocbaolong2004@gmail.com / long.tran041102@hcmut.edu.vn
+- 🌱 Computer Science graduate at Ho Chi Minh City University of Technology, VNU-HCM
+- 📫 How to reach me: tranquocbaolong2004@gmail.com
 - 😄 Pronouns: he/him
 
 <!---
